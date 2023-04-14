@@ -3,7 +3,7 @@
 
 school project
 
-absolutely nothing special about this. 
+nothing special about this game. 
 that spinning sun almost took the same time as player movement. 
 whole thing took around an hour or two including assets. 
 
